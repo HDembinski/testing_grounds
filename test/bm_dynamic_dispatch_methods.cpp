@@ -9,7 +9,6 @@
 
 namespace bm = benchmark;
 namespace mpl = boost::mpl;
-namespace te = boost::type_erasure;
 
 constexpr int nloops = 100;
 
